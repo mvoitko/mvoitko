@@ -7,7 +7,7 @@
         <ul> 🔭 I’m currently working on Computer Vision project.</ul>
         <ul> 🌱 I’m currently learning C++, JavaScript, React.</ul>
         <ul> 🤔 I’m looking for help with Algorithms and Data Structures.</ul>
-        <ul> 💬 Ask me about Cloud, Web, Big Data, Computer Vision.</ul>
+        <ul> 💬 Ask me about Cloud, Web, Big Data, Computer Vision, and Python.</ul>
         <ul> 😄 Pronouns: him/his.</ul>
         <ul> ⚡ Fun fact: I have built 6 houses.</ul>
       </p>

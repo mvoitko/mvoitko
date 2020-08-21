@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <body>
     <h1 align="center">Max Voitko</h1>
@@ -22,23 +23,33 @@
           PostgreSQL, Redis
        </dd>
     </dl>
-    <h2 align="center">Contact me</h2>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2 align="center">Contact me</h2>
+        </div>
+      </div>
+    </div>
     <h2 align="center">
-     <a href="https://twitter.com/mvoitko">
-     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
-     </a>
-     <a href="https://www.linkedin.com/in/mvoitko">
-     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
-     </a>
-     <a href="https://www.instagram.com/mvoitko">
-     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
-     </a>
-     <a href="mailto:max.voitko@gmail.com">
-     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
-     </a>
-     <a href="https://telegram.me/wartist">
-     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
-       </a>
+     <div class="container">
+       <div class="row">
+         <a href="https://twitter.com/mvoitko">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
+         </a>
+         <a href="https://www.linkedin.com/in/mvoitko">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
+         </a>
+         <a href="https://www.instagram.com/mvoitko">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
+         </a>
+         <a href="mailto:max.voitko@gmail.com">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
+         </a>
+         <a href="https://telegram.me/wartist">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
+         </a>
+        </div>
+      </div>
     </h2>
    </body>
 </html>

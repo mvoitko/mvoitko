@@ -3,6 +3,7 @@
   <body>
     <h1 align="center">Max Voitko</h1>
     <h2 align="center">Software Engineer</h2>
+    ![Twitter Follow](https://img.shields.io/twitter/follow/mvoitko?label=Follow%20Me&style=social)
     <h2 align="center">Bio</h2>
       <p align="center">
         <ul> 🔭 I’m currently working on Computer Vision project.</ul>

@@ -3,7 +3,7 @@
   <body>
     <h1 align="center">Max Voitko</h1>
     <h2 align="center">Software Engineer</h2>
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mvoitko?label=Follow%20Me&style=social">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/maxvtk?label=Follow%20Me&style=social">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5592286?style=social">
     <h2 align="center">Bio</h2>
       <p align="center">

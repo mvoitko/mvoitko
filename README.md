@@ -49,6 +49,9 @@
   <a href="https://www.instagram.com/m_voitko">
     <img src="https://img.shields.io/badge/Instagram-m__voitko-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://www.threads.net/@m_voitko">
+    <img src="https://img.shields.io/badge/Threads-m__voitko-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
   <a href="mailto:max.voitko@gmail.com">
     <img src="https://img.shields.io/badge/Email-max.voitko@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>

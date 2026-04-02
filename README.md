@@ -1,5 +1,10 @@
 <h1 align="center">Max Voitko</h1>
-<h3 align="center">AI Engineering Leader | MLOps | Data Platforms</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineering+Leader;MLOps+%7C+Data+Platforms;Building+at+%40HoneycombSoft&font=Inter&center=true&width=440&height=45&duration=3000&pause=1000&color=4493F8&size=22" alt="Typing SVG"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://twitter.com/mxvtk1">
@@ -8,6 +13,7 @@
   <a href="https://stackoverflow.com/users/5592286">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5592286?style=social"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=mvoitko&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
@@ -26,13 +32,23 @@
 
 ### Tech stack
 
-**Languages:** Python, TypeScript, Go, C++
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,go,cpp,fastapi,flask,terraform,kubernetes,docker,aws,gcp,postgres,redis,react&perline=7" alt="Tech Stack"/>
+  </a>
+</p>
 
-**ML & Data:** Kubeflow, MLOps, BigQuery, Apache Superset
+### GitHub Stats
 
-**Cloud & Infra:** AWS, GCP, Terraform, Kubernetes, Helm, Docker, CI/CD
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mvoitko&show_icons=true&theme=transparent&hide_border=true&show=reviews,prs_merged" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvoitko&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top Languages"/>
+</p>
 
-**Backend:** FastAPI, Flask, Microservices, PostgreSQL, Redis
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
 

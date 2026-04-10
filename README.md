@@ -69,7 +69,7 @@
   <a href="https://www.threads.net/@m_voitko">
     <img src="https://img.shields.io/badge/Threads-m__voitko-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"/>
   </a>
-  <a href="https://telegram.me/wartist">
-    <img src="https://img.shields.io/badge/Telegram-wartist-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/forgottendatashadows">
+    <img src="https://img.shields.io/badge/Telegram-forgottendatashadows-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineering+Leader;MLOps+%7C+Data+Platforms;Building+at+%40HoneycombSoft&font=Inter&center=true&width=440&height=45&duration=3000&pause=1000&color=4493F8&size=22" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=R%26D+Tech+Lead+%40+monday.com;MLOps+%7C+Data+Platforms;AI+Engineering+Leader&font=Inter&center=true&width=440&height=45&duration=3000&pause=1000&color=4493F8&size=22" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  Software engineer based in Warsaw, building at <a href="https://github.com/HoneycombSoft">@HoneycombSoft</a>.<br/>
+  Software engineer based in Warsaw, R&amp;D Tech Lead at <a href="https://monday.com">monday.com</a>.<br/>
   I write about MLOps, data platforms, and leading technical teams on my <a href="https://mxvtk.dev">blog</a>.
 </p>
 
@@ -27,8 +27,7 @@
 
 - Building and leading AI/ML engineering teams
 - Designing data platforms and MLOps pipelines at scale
-- Open-source contributor &mdash; Arctic Code Vault Contributor
-- Fun fact: I have built 6 houses
+- Fun fact: I have built 6 houses from 11 till 26 floors
 
 ### Tech stack
 
@@ -38,12 +37,14 @@
   </a>
 </p>
 
+<!-- TODO: Deploy own Vercel instance of github-readme-stats, then uncomment
 ### GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mvoitko&show_icons=true&theme=transparent&hide_border=true&show=reviews,prs_merged" alt="GitHub Stats"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvoitko&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top Languages"/>
 </p>
+-->
 
 ### Latest Blog Posts
 
@@ -67,9 +68,6 @@
   </a>
   <a href="https://www.threads.net/@m_voitko">
     <img src="https://img.shields.io/badge/Threads-m__voitko-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"/>
-  </a>
-  <a href="mailto:max.voitko@gmail.com">
-    <img src="https://img.shields.io/badge/Email-max.voitko@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://telegram.me/wartist">
     <img src="https://img.shields.io/badge/Telegram-wartist-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>

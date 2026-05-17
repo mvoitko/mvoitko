@@ -49,6 +49,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Joined monday.com After Building AI From Scratch](https://mxvtk.dev/blog/2026-05-16-why-i-joined-monday/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
